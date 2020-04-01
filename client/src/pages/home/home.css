@@ -1,0 +1,44 @@
+.home-component .home_sec_1 {
+  height: 50vh;
+  min-height: 250px;
+  background-image: url("/image.svg");
+  background-color: rgb(230,230,230);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 85%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  position: relative;
+}
+
+
+.home-component .home_sec_2 {
+    height: 40vh;
+    min-height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+}
+
+.home-component .home_sec_2 h4 {
+  font-weight: 500;
+}
+
+.home-component .home_sec_3{
+  height: 200px;
+  background-image: url("/image.svg");
+  background-color: rgb(230,230,230);
+  background-repeat: no-repeat;
+  background-size: 50%;
+  background-position: center;
+}
+
+
+.home-component .push-end{
+  position: absolute;
+  bottom: 2rem;
+}
