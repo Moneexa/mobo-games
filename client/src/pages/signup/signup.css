@@ -1,0 +1,22 @@
+.signup-component {
+    flex: 1;
+}
+
+.signup-component .title {
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.signup-component .big-logo-container img {
+    width: 171px;
+}
+
+
+.signup-component .details{
+    font-size: black;
+}
+
+.signup-component #payment-request-button{
+    width: 15rem;
+    max-width: 100%;
+}
