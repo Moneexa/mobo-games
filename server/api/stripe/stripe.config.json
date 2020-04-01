@@ -1,0 +1,11 @@
+{
+  "private_key": "sk_test_jHpDWuRnyBtfOxCN5fBVSwLV00FgmYanEH",
+  "line_item_details": {
+    "name": "Trial",
+    "description": "Start a 3 day trial to access over 1,000 games",
+    "images": ["/big-logo.png"],
+    "amount": 100,
+    "currency": "USD",
+    "quantity": 1
+  }
+}
