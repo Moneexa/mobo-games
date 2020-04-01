@@ -1,0 +1,22 @@
+.login-component {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+    flex: 1;
+}
+
+.login-component .login-form .input-field {
+    width: 100%;
+    padding: 10px;
+    outline: none;
+}
+
+.login-component .login-form .input-group {
+    padding-top: 10px;
+}
+
+.login-component .login-form .input-group .prefix-icon {
+    font-size: 1.5rem;
+}
