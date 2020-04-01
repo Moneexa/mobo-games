@@ -1,0 +1,16 @@
+.games-list-component .space-evenly{
+    justify-content: space-evenly;
+}
+.games-list-component .column {
+    width: 40vw;
+    height: 40vw;
+    max-width: 10rem;
+    max-height: 10rem;
+}
+.games-list-component .img-container {
+    background-color: rgb(230, 230, 230);
+    height: 100%;
+}
+.games-list-component .img-container img {
+    width: 100%;
+}
